@@ -1,0 +1,20 @@
+
+Phase 3 — Real Programming Workflow
+
+
+    File Handling
+
+    Exception Handling
+
+    Modules
+
+    Virtual Environments
+
+    OOP Basics
+
+    Logic Building
+
+
+
+
+

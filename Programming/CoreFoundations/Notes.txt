@@ -1,0 +1,10 @@
+Phase 1 — Core Programming Foundations
+
+    Variables + Data Types
+    Operators
+    Input / Output
+    Conditionals
+    Loops
+
+
+

@@ -1,0 +1,48 @@
+
+
+Phase 2 — Data Structures + Functions
+
+
+    FUCNTIONS 
+
+        Functions
+        Scope
+        Lambda Functions
+        Map
+        Filter
+
+    DATA STRUCTURES 
+
+        Strings
+        Lists
+        Tuples
+        Sets 
+        Dictionaries
+
+
+    PYTHONIC THINKING
+        List Comprehensions
+        enumerate(), zip(), unpacking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
